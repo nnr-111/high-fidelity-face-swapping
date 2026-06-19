@@ -1,0 +1,6 @@
+[submodule "external/SimSwap"]
+	path = external/SimSwap
+	url = https://github.com/neuralchen/SimSwap.git
+[submodule "external/Real-ESRGAN"]
+	path = external/Real-ESRGAN
+	url = https://github.com/xinntao/Real-ESRGAN.git

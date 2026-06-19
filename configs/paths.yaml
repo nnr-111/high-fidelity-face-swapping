@@ -1,5 +1,5 @@
-simswap_root: /home/lab716a/NNR/SimSwap
-realesrgan_root: /home/lab716a/NNR/Real-ESRGAN
+simswap_root: external/SimSwap
+realesrgan_root: external/Real-ESRGAN
 arcface_checkpoint: arcface_model/arcface_checkpoint.tar
 insightface_model_root: insightface_func/models
 simswap_model_name: people_ft3
