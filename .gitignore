@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.onnx
+*.tar
+*.ckpt
+outputs/
+runs/
+checkpoints/
+weights/
+data/
+.DS_Store

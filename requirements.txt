@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pandas
+PyYAML
+torch
+torchvision
+insightface
+onnxruntime-gpu
+gradio
+tqdm

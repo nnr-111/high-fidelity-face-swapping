@@ -1,0 +1,14 @@
+image_size: 224
+batch_size: 4
+epochs: 5
+learning_rate: 0.00001
+num_workers: 4
+lambda_identity: 1.0
+lambda_base: 0.5
+lambda_edge: 0.1
+lambda_self: 0.1
+trainable_keywords:
+  - adain
+  - id
+  - injection
+  - modulation
